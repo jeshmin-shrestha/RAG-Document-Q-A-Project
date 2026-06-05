@@ -92,7 +92,4 @@ pip install pypdf python-docx sentence-transformers faiss-cpu gradio groq
 ---
 
 ##  Author
-** Jeshmin Shrestha **
-
 **Jeshmin Shrestha**  
-Broadway Infosys | Python with AI
